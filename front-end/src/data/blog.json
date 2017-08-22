@@ -1,0 +1,27 @@
+[
+  {
+    "images": "../images/bridge.jpg",
+    "name": "我和摄影的一些事",
+    "desc": "我从很早的时候就开始接触相机，虽然那时候还远谈不上摄影。",
+    "url": "https://www.zhihu.com/question/55771902/answer/146419975"
+  },
+  {
+    "images":"../images/riding_3.jpg",
+    "name":"像一个疯子一样骑车",
+    "desc":"呐，很多年前写的一篇日志",
+    "url":"http://weibo.com/p/1001603946540786929786?from=page_100505_profile&wvr=6&mod=wenzhangmod"
+  },
+  {
+    "images": "../images/highschool_2.jpg",
+    "name":"关于视频制作的一些经验",
+    "desc":"虽然做视频让我赚了不少钱，但是我内心还是拒绝收费做视频的，因为这本来只是我的一个爱好，不想把它当做一个谋生的工具",
+    "url":"https://www.zhihu.com/question/54318576/answer/140110722"
+  },
+  {
+    "images": "../images/project-2.jpg",
+    "name": "关于学习编程的一点经验",
+    "desc": "要学编程的话，最好还是先让自己爱上它。其实我大一大二的时候都不喜欢编程，差一点就转了专业。。。（不要点下面，没东西）",
+    "url":""
+  }
+
+]
